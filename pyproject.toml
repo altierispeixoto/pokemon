@@ -5,13 +5,16 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "matplotlib>=3.9.2",
     "neo4j-graphrag>=1.2.0",
     "neo4j>=5.26.0",
     "openai>=1.54.3",
     "pandas>=2.2.3",
     "pyarrow>=18.0.0",
+    "python-dotenv>=1.0.1",
     "torch>=2.5.1",
     "torchvision>=0.20.1",
+    "transformers>=4.46.2",
 ]
 
 [tool.uv]

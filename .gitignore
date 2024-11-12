@@ -13,3 +13,5 @@ data/
 neo4j/
 ollama/
 open-webui/
+.gitignore
+.env
